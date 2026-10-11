@@ -5,3 +5,5 @@
        width="400"
        style="border-radius: 50px;">
 </a>
+
+> 11.49
